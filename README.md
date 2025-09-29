@@ -44,4 +44,4 @@ By implementing these features, the project aims to significantly improve commun
 - Pranay Ratan
 
 ## Acknowledgments
-- Beedie Business Analytics Hackathon 2024
+- Beedie Business Analytics Hackathon 2024.
